@@ -1,0 +1,35 @@
+name: kids_drawing_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.1
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.5
+  path: ^1.9.0
+  image_picker: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image1.jpg
+    - assets/image2.jpg
+    - assets/image3.jpg
+    - assets/image4.jpg
+    - assets/image5.jpg
+    - assets/image6.jpg
+    - assets/image7.jpg
+    - assets/image8.jpg
+    - assets/image9.jpg
+    - assets/image10.jpg
