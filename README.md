@@ -25,6 +25,19 @@ This makes it easier for kids to practice proportions, improve hand control, and
 
 🛠️ Tech Stack
 
-Flutter (cross-platform UI framework)
+-Flutter (cross-platform UI framework)
+-Dart (programming language)
 
-Dart (programming language)
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Tracing Feature
+![Tracing Feature](screenshots/tracing_feature.png)
+
+### Adjusting Opacity
+![Opacity Adjustment](screenshots/adjusting_opacity.png)
+
+### Adjusting Opacity
+![Size Adjustment](screenshots/size.png)
